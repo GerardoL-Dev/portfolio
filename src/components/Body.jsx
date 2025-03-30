@@ -11,7 +11,7 @@ const Body = () => {
       <section id="about" className="about">
         <h2>Sobre mí</h2>
         <p>
-          Soy un Desarrollador Full Stack apasionado por el arte del diseño web y la ciencia oculta detrás de su funcionamiento. Me motiva el profesionalismo individual y el esfuerzo que implica construir soluciones tecnológicas eficientes y atractivas.
+          Soy un Desarrollador Full Stack apasionado por el arte del diseño web y la ciencia detrás de su funcionamiento. Me motiva el profesionalismo individual y el esfuerzo que implica construir soluciones tecnológicas eficientes y atractivas.
         </p>
         <p>Creo firmemente en el aprendizaje continuo y la evolución constante en este campo. Trabajo con tecnologías como Java, JavaScript, HTML y CSS, además de frameworks y herramientas como React, Node.js, MySQL e Hibernate.</p>
         <p>He desarrollado proyectos como una tienda online de motos y una app de reservas de vuelos, lo que me ha permitido aplicar mis conocimientos en el desarrollo de aplicaciones funcionales y escalables.</p>
