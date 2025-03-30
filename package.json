@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gerardol-dev.github.io/portfolio",
+  "homepage": "https://gerardol-ev.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

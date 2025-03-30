@@ -7,7 +7,7 @@ const Header = () =>{
         <header className="header">
             <div className="header-content">
                 <h1>Gerardo Leivas</h1>
-                <p>Desarrollador Full Stack</p>
+                <p>Full Stack Developer</p>
             </div>
             <div className='header-image'>
             <img src={fotoPerfil} alt="Gerardo Leivas" />
